@@ -1,0 +1,7 @@
+body {
+    display: grid;
+    place-items: center;
+    font: 5rem bolder;
+    color: rgb(75, 0, 150);
+    height: 10rem;
+}
